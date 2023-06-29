@@ -51,10 +51,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Edgar_Wallace</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80034938</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Richard Redgrave</dc:contributor>
-		<meta property="file-as" refines="#artist">Redgrave, Richard</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Richard_Redgrave</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">n81075659</meta>
+		<dc:contributor id="artist">Douglas Strachan</dc:contributor>
+		<meta property="file-as" refines="#artist">Strachan, Douglas</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Douglas_Strachan</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">no2006070253</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
