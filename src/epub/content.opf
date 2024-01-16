@@ -55,7 +55,7 @@
 		<meta property="file-as" refines="#artist">Gris, Juan</meta>
 		<meta property="se:name.person.full-name" refines="#artist">José Victoriano González-Pérez</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Juan_Gris</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/n79139620</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79139620</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
