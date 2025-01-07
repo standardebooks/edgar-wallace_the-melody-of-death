@@ -6,3 +6,7 @@
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
+
+.telegram{
+	font-variant: all-small-caps;
+}
