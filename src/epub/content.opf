@@ -42,7 +42,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20160226</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/102649979L</dc:source>
-		<meta property="se:word-count">46732</meta>
+		<meta property="se:word-count">46315</meta>
 		<meta property="se:reading-ease.flesch">73.98</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Melody_of_Death</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-wallace_the-melody-of-death</meta>
